@@ -22,7 +22,7 @@
 - Eager to join forces with fellow tech visionaries, creators, and innovators for epic collaborations.
 - My vision is to etch a legacy in the ever-evolving tapestry of technology.
 
-📊 [LinkedIn](linkedin.com/in/zeeshan-fahad-3a9468203) ![LinkedIn Logo](link-to-your-linkedin-logo-image)
+📊 [![LinkedIn]([link-to-your-linkedin-logo-image](https://github.com/Zeeshan-szf/Zeeshan-szf/blob/main/61109.webp))](https://www.linkedin.com/in/zeeshan-fahad-3a9468203)
 
 💬 "The only limit to our realization of tomorrow will be our doubts of today." – Franklin D. Roosevelt
 💬 "The best way to predict the future is to invent it." – Alan Kay
