@@ -1,15 +1,11 @@
 ### Zeeshan Fahad  
 🚀 DevOps & Cloud Architect | ☁️ Cloud Maestro | 💡 Tech Alchemist | 🌌 Code Voyager
 
-🔧 **Tech Arsenal:**
-- AWS Cloud 🌐
-- Kubernetes 🚢
-- Docker 🐳
-- Jenkins 🚀
-- Terraform ⛏️
-- Ansible 🤖
-- Python 🐍
-- Git/GitHub 🌿
+🛠️ **Tech Arsenal:**
+
+| 💼 **AWS Cloud** | 🚀 **Kubernetes** | 🐳 **Docker** | 🚀 **Jenkins** |
+|------------------|-----------------|--------------|-------------|
+| ⛏️ **Terraform** | 🤖 **Ansible** | 🐍 **Python** | 🌿 **Git/GitHub** |
 
 🌟 **About Me:**
 - Welcome to my tech universe, where cloud meets code and dreams become deployments.
