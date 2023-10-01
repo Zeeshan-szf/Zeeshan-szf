@@ -1,4 +1,5 @@
 ### Zeeshan Fahad  [<img align="left" alt="Zeeshan Fahad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![An image of @zeeshanszf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeeshanszf)](https://holopin.io/@zeeshanszf)
 
 🚀 DevOps & Cloud Architect | ☁️ Cloud Maestro | 💡 Tech Alchemist | 🌌 Code Voyager
 
