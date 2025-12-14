@@ -60,9 +60,22 @@ Python • Bash • Groovy • YAML • HCL
 
 ### 🎯 What I'm Working On
 
+**AI & Advanced Projects:**
 - 🔬 **AI DevOps Assistant**: Multi-cluster Kubernetes automation using Vertex AI and MCP servers
 - 📚 **RAG Troubleshooting Engine**: Context-aware debugging using historical incidents and SOPs
 - 🏗️ **Custom K8s Operators**: Building CRDs for intelligent resource management
+
+**Python DevOps Automation Scripts:**
+- 🐍 **GCP Cost Optimizer**: Automated script to identify idle GCP resources and generate cost-saving recommendations
+- ⚡ **K8s Pod Health Monitor**: Real-time monitoring script that detects crashlooping pods and sends Slack alerts
+- 💰 **AWS Spot Instance Manager**: Automated lifecycle management for EC2 Spot instances with failover logic
+- 🔐 **IAM Security Auditor**: Python tool to scan and report IAM misconfigurations across AWS/GCP accounts
+- 📊 **Multi-Cloud Resource Inventory**: Unified inventory generator for AWS + GCP resources with Excel/CSV export
+- 🔄 **Backup Automation Suite**: Scheduled backup scripts for databases, volumes, and configs with retention policies
+- 🚨 **Log Anomaly Detector**: Python script using regex patterns to detect unusual activity in application logs
+- 🎯 **Resource Tagging Enforcer**: Automated tagging compliance checker and remediation tool for cloud resources
+
+**Content & Community:**
 - 📝 **Technical Writing**: Sharing insights on AI + DevOps at the edge
 - 🚀 **Open Source**: Preparing production-grade tools to share with the community
 
@@ -81,12 +94,6 @@ Python • Bash • Groovy • YAML • HCL
 - Reduced release times by 40% with advanced CI/CD pipelines
 
 💡 **Open source versions of these tools coming soon!**
-
-### 📈 GitHub Stats
-
-![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-szf&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-szf&layout=compact&theme=radical&hide_border=true)
 
 ### 🏆 2026 Goals
 
@@ -123,18 +130,6 @@ Python • Bash • Groovy • YAML • HCL
 - 📚 "Kubernetes Patterns" - Bilgin Ibryam & Roland Huß
 - 📚 "Site Reliability Engineering" - Google
 
-### 💬 Let's Connect
-
-I'm always excited to collaborate on projects at the intersection of AI and infrastructure, discuss cloud architecture, or help fellow engineers grow.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-fahad-3a9468203/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeeshan.szf@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blueviolet?style=for-the-badge)](https://github.com/Zeeshan-szf)
-
-### 📊 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zeeshan-szf&theme=react-dark&hide_border=true)
-
 ### 🎯 Open Source Journey
 
 Currently preparing to share production-grade tools and contribute to the community. Focus areas:
@@ -168,5 +163,23 @@ because it's intelligent enough to think for itself."
 **"First, solve the problem. Then, write the code." - John Johnson**
 
 *Crafted with ❤️ and lots of ☕ in Kurnool, India*
+
+### 📊 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zeeshan-szf&theme=react-dark&hide_border=true)
+
+### 📈 GitHub Stats
+
+![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-szf&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-szf&layout=compact&theme=radical&hide_border=true)
+
+### 💬 Let's Connect
+
+I'm always excited to collaborate on projects at the intersection of AI and infrastructure, discuss cloud architecture, or help fellow engineers grow.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-fahad-3a9468203/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeeshan.szf@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blueviolet?style=for-the-badge)](https://github.com/Zeeshan-szf)
 
 </div>
