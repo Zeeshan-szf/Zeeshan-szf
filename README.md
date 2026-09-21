@@ -1,10 +1,12 @@
 # Hi there, I'm Zeeshan Fahad 👋
 
-## AI Systems & Cloud Infrastructure Engineer
+## AI Engineer · Agentic AI, GenAI & Cloud Infrastructure
 
 > Building intelligent, self-healing infrastructure where AI meets DevOps
 
-I architect cloud platforms that don't just run—they think, learn, and heal themselves. With 5.5 years of experience, I'm at the intersection of AI engineering and cloud infrastructure, creating systems that reduce toil and amplify human capability.
+🌐 [zeeshanlabs.com](https://zeeshanlabs.com) · ✍️ [Field Notes blog](https://zeeshanlabs.com/blog) · 💼 [LinkedIn](https://www.linkedin.com/in/zeeshanfahad)
+
+I architect cloud platforms that don't just run—they think, learn, and heal themselves. With 6+ years of experience, I'm at the intersection of AI engineering and cloud infrastructure, creating systems that reduce toil and amplify human capability.
 
 ### 🚀 What I Do
 
@@ -13,6 +15,23 @@ I architect cloud platforms that don't just run—they think, learn, and heal th
 - 🔐 **Security-First Engineering**: Implementing RBAC, zero-trust architectures, and automated compliance
 - 📊 **Observable Systems**: Creating unified monitoring with Grafana, Prometheus, and real-time anomaly detection
 - 🎯 **Infrastructure as Code**: Terraform modules and Kubernetes CRDs that turn infrastructure into poetry
+
+### 📌 Featured Projects
+
+| Project | What it shows |
+|---|---|
+| [agent-observability-otel](https://github.com/Zeeshan-szf/agent-observability-otel) | OpenTelemetry tracing for AI agents: GenAI semantic conventions, MCP trace propagation (2026-07-28 spec), cost per run and tested Prometheus alerts |
+| [Genai-Chat-Agent](https://github.com/Zeeshan-szf/Genai-Chat-Agent) | Multi-turn Gemini chat agent with tool calling, FastAPI + React, deployed on Cloud Run |
+| [Automated-DevOps-Toolset](https://github.com/Zeeshan-szf/Automated-DevOps-Toolset) | Scripts that install and configure common DevOps tooling on Linux |
+
+### ✍️ Latest Writing
+
+- [How to Monitor AI Agents in Production with OpenTelemetry](https://zeeshanlabs.com/blog/ai-agents-observability-production) *(updated for the MCP 2026-07-28 spec)*
+- [vLLM vs Ollama in 2026: Which LLM Serving Framework Should You Use in Production?](https://zeeshanlabs.com/blog/vllm-vs-ollama-production-2026)
+- [Kubernetes Cost Optimization in 2026: From $50K to $22K/Month with Spot, VPA, and Karpenter](https://zeeshanlabs.com/blog/kubernetes-cost-optimization-2026)
+- [Why 60% of GenAI Deployments Fail to Scale in 2026 (And How to Fix It)](https://zeeshanlabs.com/blog/genai-production-deployment-failures-2026)
+
+More at [zeeshanlabs.com/blog](https://zeeshanlabs.com/blog).
 
 ### 💡 Recent Highlights
 
@@ -45,7 +64,7 @@ GCP • AWS • GKE • EKS • Kubernetes • Terraform • Docker
 
 **Observability & Security**
 ```
-Grafana • Prometheus • Loki • Cloudflare • RBAC • Aqua Security
+OpenTelemetry • Grafana • Prometheus • Loki • Cloudflare • RBAC • Aqua Security
 ```
 
 **Data & Messaging**
@@ -65,18 +84,8 @@ Python • Bash • Groovy • YAML • HCL
 - 📚 **RAG Troubleshooting Engine**: Context-aware debugging using historical incidents and SOPs
 - 🏗️ **Custom K8s Operators**: Building CRDs for intelligent resource management
 
-**Python DevOps Automation Scripts:**
-- 🐍 **GCP Cost Optimizer**: Automated script to identify idle GCP resources and generate cost-saving recommendations
-- ⚡ **K8s Pod Health Monitor**: Real-time monitoring script that detects crashlooping pods and sends Slack alerts
-- 💰 **AWS Spot Instance Manager**: Automated lifecycle management for EC2 Spot instances with failover logic
-- 🔐 **IAM Security Auditor**: Python tool to scan and report IAM misconfigurations across AWS/GCP accounts
-- 📊 **Multi-Cloud Resource Inventory**: Unified inventory generator for AWS + GCP resources with Excel/CSV export
-- 🔄 **Backup Automation Suite**: Scheduled backup scripts for databases, volumes, and configs with retention policies
-- 🚨 **Log Anomaly Detector**: Python script using regex patterns to detect unusual activity in application logs
-- 🎯 **Resource Tagging Enforcer**: Automated tagging compliance checker and remediation tool for cloud resources
-
 **Content & Community:**
-- 📝 **Technical Writing**: Sharing insights on AI + DevOps at the edge
+- 📝 **Technical Writing**: [Field Notes](https://zeeshanlabs.com/blog) on AI agents, LLM serving and cloud cost
 - 🚀 **Open Source**: Preparing production-grade tools to share with the community
 
 ### 🌟 Projects & Impact
@@ -87,7 +96,7 @@ Python • Bash • Groovy • YAML • HCL
 - Automated infrastructure provisioning reducing deployment time by 75%
 - Reduced operational workload by 60%+ through intelligent automation
 
-**At Toqqer** (Previous):
+**At Himalaya Hydro** (Previous):
 - Orchestrated zero-downtime AWS to GCP migration for production OTT platform
 - Achieved 50% cost reduction through strategic architecture optimization
 - Developed custom Kubernetes CRDs for automated resource validation
@@ -97,26 +106,17 @@ Python • Bash • Groovy • YAML • HCL
 
 ### 🏆 2026 Goals
 
-- [ ] Earn GCP Professional Cloud Architect certification
+- [x] Earn GCP Professional Cloud Architect certification ✅
 - [ ] Open source 4+ production-grade DevOps tools
 - [ ] Contribute to 5+ major open source projects (Kubernetes, Terraform, LangChain)
-- [ ] Publish 12 technical blog posts on AI + DevOps
-
-### 📝 Latest Writing
-
-🚧 **Blog launching soon!** Topics I'll be covering:
-- Building AI-Powered DevOps Assistants with Vertex AI and MCP
-- Zero-Downtime AWS to GCP Migration: Lessons Learned
-- Implementing RAG for Infrastructure Troubleshooting
-- Custom Kubernetes CRDs for Automated Resource Validation
-- Multi-Cluster Management with MCP Servers
+- [ ] Publish 12 technical blog posts on AI + DevOps *(4 published)*
 
 ### 🎓 Continuous Learning
 
-**Certifications in Progress:**
-- 🎯 GCP Professional Cloud Architect
-- ☸️ Certified Kubernetes Administrator (CKA)
-- 🏗️ HashiCorp Terraform Associate
+**Certifications:**
+- ✅ Google Cloud Professional Cloud Architect
+- ☸️ Certified Kubernetes Administrator (CKA) *(in progress)*
+- 🏗️ HashiCorp Terraform Associate *(in progress)*
 
 **Current Focus Areas:**
 - 🤖 AI Agents & Autonomous Systems
@@ -126,7 +126,7 @@ Python • Bash • Groovy • YAML • HCL
 - 🔐 Zero Trust Security Architecture
 
 **Currently Reading:**
-- 📚 "Building LLMs for Production" - Chip Huyen
+- 📚 "Building LLMs for Production" - Louis-François Bouchard & Louie Peters
 - 📚 "Kubernetes Patterns" - Bilgin Ibryam & Roland Huß
 - 📚 "Site Reliability Engineering" - Google
 
@@ -138,7 +138,7 @@ Currently preparing to share production-grade tools and contribute to the commun
 - **Terraform providers** - Multi-cloud infrastructure modules
 - **Cloud Native projects** - CNCF sandbox contributions
 
-**First repositories launching Q1 2026!** ⭐
+**First one is live:** [agent-observability-otel](https://github.com/Zeeshan-szf/agent-observability-otel) ⭐
 
 ### 💭 Philosophy
 
@@ -178,8 +178,8 @@ because it's intelligent enough to think for itself."
 
 I'm always excited to collaborate on projects at the intersection of AI and infrastructure, discuss cloud architecture, or help fellow engineers grow.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshan-fahad-3a9468203/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeeshanfahad)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeeshan.szf@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blueviolet?style=for-the-badge)](https://github.com/Zeeshan-szf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zeeshanlabs.com-blueviolet?style=for-the-badge)](https://zeeshanlabs.com)
 
 </div>
