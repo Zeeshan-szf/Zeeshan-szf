@@ -28,8 +28,8 @@ I architect cloud platforms that don't just run—they think, learn, and heal th
 
 - [How to Monitor AI Agents in Production with OpenTelemetry](https://zeeshanlabs.com/blog/ai-agents-observability-production) *(updated for the MCP 2026-07-28 spec)*
 - [vLLM vs Ollama in 2026: Which LLM Serving Framework Should You Use in Production?](https://zeeshanlabs.com/blog/vllm-vs-ollama-production-2026)
-- [Kubernetes Cost Optimization in 2026: From $50K to $22K/Month with Spot, VPA, and Karpenter](https://zeeshanlabs.com/blog/kubernetes-cost-optimization-2026)
-- [Why 60% of GenAI Deployments Fail to Scale in 2026 (And How to Fix It)](https://zeeshanlabs.com/blog/genai-production-deployment-failures-2026)
+- [Kubernetes Cost Optimization in 2026: From $51K to $23K/Month with Spot, VPA, and Karpenter](https://zeeshanlabs.com/blog/kubernetes-cost-optimization-2026)
+- [Why Most GenAI Pilots Never Reach Production in 2026 (And How to Fix It)](https://zeeshanlabs.com/blog/genai-production-deployment-failures-2026)
 
 More at [zeeshanlabs.com/blog](https://zeeshanlabs.com/blog).
 
