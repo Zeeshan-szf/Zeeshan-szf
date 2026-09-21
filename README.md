@@ -164,15 +164,12 @@ because it's intelligent enough to think for itself."
 
 *Crafted with ❤️ and lots of ☕ in Kurnool, India*
 
-### 📊 Contribution Activity
+### 📈 Top Languages
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zeeshan-szf&theme=react-dark&hide_border=true)
-
-### 📈 GitHub Stats
-
-![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeeshan-szf&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan-szf&layout=compact&theme=radical&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="cards/languages-dark.svg">
+  <img alt="Most used languages across my public repositories" src="cards/languages-light.svg">
+</picture>
 
 ### 💬 Let's Connect
 
