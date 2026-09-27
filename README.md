@@ -21,11 +21,10 @@ I architect cloud platforms that don't just run—they think, learn, and heal th
 | Project | What it shows |
 |---|---|
 | [agent-observability-otel](https://github.com/Zeeshan-szf/agent-observability-otel) | OpenTelemetry tracing for AI agents: GenAI semantic conventions, MCP trace propagation (2026-07-28 spec), cost per run and tested Prometheus alerts |
-| [Genai-Chat-Agent](https://github.com/Zeeshan-szf/Genai-Chat-Agent) | Multi-turn Gemini chat agent with tool calling, FastAPI + React, deployed on Cloud Run |
-| [Automated-DevOps-Toolset](https://github.com/Zeeshan-szf/Automated-DevOps-Toolset) | Scripts that install and configure common DevOps tooling on Linux |
 
 ### ✍️ Latest Writing
 
+- [AI Agent Evaluation in 2026: Grade the Trajectory, Not the Answer](https://zeeshanlabs.com/blog/agent-evaluation-trajectory-2026)
 - [How to Monitor AI Agents in Production with OpenTelemetry](https://zeeshanlabs.com/blog/ai-agents-observability-production) *(updated for the MCP 2026-07-28 spec)*
 - [vLLM vs Ollama in 2026: Which LLM Serving Framework Should You Use in Production?](https://zeeshanlabs.com/blog/vllm-vs-ollama-production-2026)
 - [Kubernetes Cost Optimization in 2026: From $51K to $23K/Month with Spot, VPA, and Karpenter](https://zeeshanlabs.com/blog/kubernetes-cost-optimization-2026)
@@ -109,7 +108,7 @@ Python • Bash • Groovy • YAML • HCL
 - [x] Earn GCP Professional Cloud Architect certification ✅
 - [ ] Open source 4+ production-grade DevOps tools
 - [ ] Contribute to 5+ major open source projects (Kubernetes, Terraform, LangChain)
-- [ ] Publish 12 technical blog posts on AI + DevOps *(4 published)*
+- [ ] Publish 12 technical blog posts on AI + DevOps *(5 published)*
 
 ### 🎓 Continuous Learning
 
